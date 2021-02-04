@@ -190,7 +190,8 @@ h1:hover {
 }
 
 footer {
-    float:under;
+    position:relative;
+    width:100%;
     color :rgb(221, 221, 221);
     margin-top : 45px;
     margin-left: 10px; 
